@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="..\..\0. C++ Code\Logic Game\joc.cpp">
+      <Filter>Logic Game</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\0. C++ Code\Logic Game\main.cpp">
+      <Filter>Logic Game</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\0. C++ Code\Logic Game\Button.cpp">
+      <Filter>Logic Game</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\0. C++ Code\Graphic Lib\debug.cpp">
+      <Filter>Graphic Lib</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\0. C++ Code\Graphic Lib\image_png.cpp">
+      <Filter>Graphic Lib</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\0. C++ Code\Graphic Lib\keyboard.cpp">
+      <Filter>Graphic Lib</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\0. C++ Code\Graphic Lib\mouse.cpp">
+      <Filter>Graphic Lib</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\0. C++ Code\Graphic Lib\sound.cpp">
+      <Filter>Graphic Lib</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\0. C++ Code\Graphic Lib\sprites.cpp">
+      <Filter>Graphic Lib</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\0. C++ Code\Graphic Lib\stb_vorbis.cpp">
+      <Filter>Graphic Lib</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\0. C++ Code\Graphic Lib\video.cpp">
+      <Filter>Graphic Lib</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\0. C++ Code\Graphic Lib\NFont\NFont.cpp">
+      <Filter>Graphic Lib\NFont</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\0. C++ Code\Graphic Lib\NFont\SDL_FontCache.c">
+      <Filter>Graphic Lib\NFont</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\0. C++ Code\Logic Game\Dictionary.cpp">
+      <Filter>Logic Game</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\0. C++ Code\Logic Game\TileRenderer.cpp">
+      <Filter>Logic Game</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\0. C++ Code\Logic Game\InfoLetters.cpp">
+      <Filter>Logic Game</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\0. C++ Code\Logic Game\Word.cpp">
+      <Filter>Logic Game</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\0. C++ Code\Logic Game\joc.h">
+      <Filter>Logic Game</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\0. C++ Code\Logic Game\Button.h">
+      <Filter>Logic Game</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\0. C++ Code\Graphic Lib\debug.h">
+      <Filter>Graphic Lib</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\0. C++ Code\Graphic Lib\error.h">
+      <Filter>Graphic Lib</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\0. C++ Code\Graphic Lib\image_png.h">
+      <Filter>Graphic Lib</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\0. C++ Code\Graphic Lib\keyboard.h">
+      <Filter>Graphic Lib</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\0. C++ Code\Graphic Lib\keyboard_sdl.h">
+      <Filter>Graphic Lib</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\0. C++ Code\Graphic Lib\libreria.h">
+      <Filter>Graphic Lib</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\0. C++ Code\Graphic Lib\mouse.h">
+      <Filter>Graphic Lib</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\0. C++ Code\Graphic Lib\sound.h">
+      <Filter>Graphic Lib</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\0. C++ Code\Graphic Lib\sprites.h">
+      <Filter>Graphic Lib</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\0. C++ Code\Graphic Lib\stb_vorbis.h">
+      <Filter>Graphic Lib</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\0. C++ Code\Graphic Lib\video.h">
+      <Filter>Graphic Lib</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\0. C++ Code\Graphic Lib\NFont\NFont.h">
+      <Filter>Graphic Lib\NFont</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\0. C++ Code\Graphic Lib\NFont\NFont_gpu.h">
+      <Filter>Graphic Lib\NFont</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\0. C++ Code\Graphic Lib\NFont\SDL_FontCache.h">
+      <Filter>Graphic Lib\NFont</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\0. C++ Code\Logic Game\Dictionary.h">
+      <Filter>Logic Game</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\0. C++ Code\Logic Game\TileRenderer.h">
+      <Filter>Logic Game</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\0. C++ Code\Logic Game\InfoLetters.h">
+      <Filter>Logic Game</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\0. C++ Code\Logic Game\InfoImportant.h">
+      <Filter>Logic Game</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\0. C++ Code\Logic Game\Word.h">
+      <Filter>Logic Game</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Logic Game">
+      <UniqueIdentifier>{fec829ba-01ac-49c3-b912-87f970f7be5e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Graphic Lib">
+      <UniqueIdentifier>{6144af37-b4a4-4fb0-8244-d17da6f460f5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Graphic Lib\NFont">
+      <UniqueIdentifier>{e223e950-fa84-442a-9f2b-f97bbf8c31b7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
